@@ -5,6 +5,7 @@ public class Ex01Git {
 		System.out.println("팀장 첫번째 커밋");
 		System.out.println("팀원1 두번째 ");
 		System.out.println("나는 팀원이다");
+		System.out.println("내가팀장이다");
 	}
 
 }
