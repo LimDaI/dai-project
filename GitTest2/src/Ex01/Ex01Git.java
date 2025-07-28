@@ -7,7 +7,7 @@ public class Ex01Git {
 		System.out.println("잘 모르겠어요");
 		
 		System.out.println("여기 충돌");
-		System.out.println("충돌");
+		int a = 5;
 	}
 
 }
