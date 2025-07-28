@@ -7,6 +7,8 @@ public class Ex01Git {
 		System.out.println("이게 맞나요?");
 		System.out.println("모르겠어요");
 		System.out.println("흙흙흙");
+		
+		System.out.println("재미없어");
 	}
 
 }
